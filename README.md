@@ -1,0 +1,2 @@
+# namor
+Example submodule
